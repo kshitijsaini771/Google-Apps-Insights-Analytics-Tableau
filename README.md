@@ -48,6 +48,7 @@ Interactive Tableau dashboard analyzing 10,300+ cleaned Google Play Store apps a
   - Reviews Performance Score correlation shows higher review counts generally correlate with better ratings, emphasizing importance of user engagement strategies.
   - Free apps constitute overwhelming majority demonstrating freemium as dominant business model requiring focus on in-app monetization and user retention.
 
+![Tableau](Tableau.PNG)
 
 
 
