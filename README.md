@@ -37,7 +37,7 @@ The analysis is based on a refined dataset comprising **10,300 Google Play Store
 - The **Free vs Paid Distribution** bar chart compares app counts by pricing model across categories, illustrating that **free apps dominate** in nearly all segments—with FAMILY and TOOLS having the highest free-to-paid ratios.
 - Designed for product managers, marketers, and investors to identify high-growth categories, benchmark performance, and allocate resources based on real-time market trends and user preferences.
 
-![Tableu](Tableu.PNG)
+![Tableau](Tableu.PNG)
 
 ## Author & Contact
 - Name: `Kshitij Saini`   
